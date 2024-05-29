@@ -1,2 +1,3 @@
-email :
-gitID :
+email : bigbangok@naver.com
+gitID : Orinugoori
+hi
